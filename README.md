@@ -1,4 +1,4 @@
-# Removing Git Credentials from Stretch 3 Before Customer Deployment
+# Removing Git Credentials from Stretch Before Customer Deployment
 
 Use this guide before handing a robot to a customer to remove all GitHub authentication and personal Git credentials.
 
