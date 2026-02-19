@@ -124,4 +124,4 @@ Confirm:
 
 * No private SSH keys present
 
-* No Git `user.name` or `user.email` set# Remove-Git-Credentials
+* No Git `user.name` or `user.email` 
